@@ -27,8 +27,6 @@ The goal of this project is to visually simulate a 2D scene where a **cycle move
 
 ## 📸 Screenshots
 
-> *(Add actual screenshots if available)*
-
 ![Screenshot](Images/screenshot1.png)
 
 ## 🚀 How to Run
